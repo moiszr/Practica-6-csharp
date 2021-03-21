@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\moise\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\moise\\OneDrive\\Clases ITLA\\2do Cuatrimestre\\Fundamentos de programación-2021-C-1\\Practica 06 - Constructor, Colaboracion y Herencia\\Practica 06 - Constructor, Colaboracion y Herencia.csproj",
+      "projectName": "Practica 06 - Constructor, Colaboracion y Herencia",
+      "projectPath": "C:\\Users\\moise\\OneDrive\\Clases ITLA\\2do Cuatrimestre\\Fundamentos de programación-2021-C-1\\Practica 06 - Constructor, Colaboracion y Herencia\\Practica 06 - Constructor, Colaboracion y Herencia.csproj",
+      "packagesPath": "C:\\Users\\moise\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\moise\\OneDrive\\Clases ITLA\\2do Cuatrimestre\\Fundamentos de programación-2021-C-1\\Practica 06 - Constructor, Colaboracion y Herencia\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\moise\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
